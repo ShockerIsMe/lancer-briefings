@@ -66,7 +66,7 @@
     </defs>
   </svg>
   <audio autoplay>
-    <source src="/startup.ogg" type="audio/ogg" />
+    <source src="/startup.mp3" type="audio/mp3" />
   </audio>
   <Footer/>
 </template>
